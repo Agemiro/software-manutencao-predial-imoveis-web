@@ -7,7 +7,7 @@ export const AreaFooter = styled.div`
     padding: 10px;
     font-size: 14px;
 
-    botton: 0;
+    bottom: 0;
     position: fixed;
     width: 100%;
 `;
